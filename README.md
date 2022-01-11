@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VIGHNESH1521.visitor-badge&left_color=red&right_color=green&left_text=VISITORS)
 
-
-
-
-
-
-
-
-![VIGHNESH1521's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIGHNESH1521&show_icons=true&theme=nightowl)
+![VIGHNESH1521's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIGHNESH1521&theme=nightowl&show_icons=true)
