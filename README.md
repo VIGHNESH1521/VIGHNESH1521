@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh1521&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh1521" /> </p>
 
+![1641541944641-modified](https://user-images.githubusercontent.com/90493668/148988195-83c65efd-cee5-4117-8e37-317a99de1ce5.png)
+
+
 <p align="left"> <a href="https://twitter.com/vighnesh2k01" target="blank"><img src="https://img.shields.io/twitter/follow/vighnesh2k01?logo=twitter&style=for-the-badge" alt="vighnesh2k01" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
