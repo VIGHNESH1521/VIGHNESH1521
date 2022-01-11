@@ -3,6 +3,9 @@
 <!--
 **VIGHNESH1521/VIGHNESH1521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+# Hello, folks! <img src="https://raw.githubusercontent.com/VIGHNESH1521/VIGHNESH1521/master/wave.gif" width="30px">
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,8 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Vighnesh Sudhakar](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 
-<p align="center">
-Whatever I do, I do with perfection, Takes work ethics very seriously, Loves to lead people, Helps them to achieve their goals and consistently looking for innovating something 
-<br><br>
