@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm VIGHNESH S</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India.</h3>
 
+![1641541944641](https://user-images.githubusercontent.com/90493668/148994298-327b4722-ab62-439c-bb86-995bb52f47f5.jpg)
+
+
 <p align="left"><a href ="https://giphy.com/gifs/DataCamp-machine-learning-ml-datacamp-gutZ5Pm6Xl62eIf5RZ"></a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh1521&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh1521" /> </p>
