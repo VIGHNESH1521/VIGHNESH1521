@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vighnesh2k01" target="blank"><img src="https://img.shields.io/twitter/follow/vighnesh2k01?logo=twitter&style=for-the-badge" alt="vighnesh2k01" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analysis**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analysis, OpenCV**
 
 - 💬 Ask me about **Machine Learning, Power BI**
 
