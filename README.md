@@ -1,4 +1,4 @@
-<h1 align="center">Hello People!! 💕¯\_(ツ)_/¯ , I'm VIGHNESH S</h1>
+<h1 align="center">Hello People💕, I'm VIGHNESH S</h1>
 <h3 align="center">A passionate Python, Machine Learning, Data Analysis Enthusiast from India</h3>
 
 ![1641541944641](https://user-images.githubusercontent.com/90493668/148994298-327b4722-ab62-439c-bb86-995bb52f47f5.jpg)
