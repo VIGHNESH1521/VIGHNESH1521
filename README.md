@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Analysis, OpenCV**
 
-- 💬 Ask me about **Machine Learning, Power BI**
+- 💬 Ask me about **Machine Learning, Power BI, OpenCV**
 
 - 📫 How to reach me **vighneshsudhakar@gmail.com**
 
