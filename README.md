@@ -55,6 +55,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPOSITORY: <username/username> # optional, By default, it will automatically use the repository who's executing the workflow.
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+          REPOSITORY: <VIGHNESH1521/VIGHNESH1521>
