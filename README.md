@@ -31,6 +31,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vighnesh1521&show_icons=true&locale=en&layout=compact" alt="vighnesh1521" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vighnesh1521&show_icons=true&locale=en" alt="vighnesh1521" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vighnesh1521&" alt="vighnesh1521" /></p>
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
