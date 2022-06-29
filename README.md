@@ -3,7 +3,7 @@
 
 ![1641541944641](https://user-images.githubusercontent.com/90493668/148994298-327b4722-ab62-439c-bb86-995bb52f47f5.jpg)
 
-<img align = "right" alt = "coding" width = "400" src = "https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif">
+<img align = "right" alt = "coding" width = "400" src = "<iframe src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">via GIPHY</a></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh1521&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh1521" /> </p>
 
