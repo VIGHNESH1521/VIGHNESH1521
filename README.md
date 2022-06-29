@@ -3,7 +3,7 @@
 
 ![1641541944641](https://user-images.githubusercontent.com/90493668/148994298-327b4722-ab62-439c-bb86-995bb52f47f5.jpg)
 
-<iframe src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/iPj5oRtJzQGxwzuCKV" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/gigabyte-official-ai-machine-learning-gigabyte-iPj5oRtJzQGxwzuCKV">via GIPHY</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vighnesh1521&label=Profile%20views&color=0e75b6&style=flat" alt="vighnesh1521" /> </p>
 
