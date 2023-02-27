@@ -10,10 +10,16 @@ A passionate Python, Machine Learning & Deep Learning enthusiast, Django develop
 * ✉️  You can contact me at [vighneshsudhakar@gmail.com](mailto:vighneshsudhakar@gmail.com)
 * 🧠  I'm learning Django, HTML5, CSS3, Bootstrap
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning
+* 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
 
 <a href="https://www.twitter.com/vighnesh2k01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vighnesh2k01?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
 /></a>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@vighneshsudhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vighneshsudhakar" height="30" width="40" /></a>
+</p>
 
 ### Skills
 
@@ -48,12 +54,3 @@ src="https://img.shields.io/twitter/follow/vighnesh2k01?logo=twitter&style=for-t
 <a href="http://www.github.com/VIGHNESH1521"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=VIGHNESH1521&bg_color=000000&color=14b8a6&line=14b8a6&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/VIGHNESH1521" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VIGHNESH1521&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=14b8a6&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@vighneshsudhakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vighneshsudhakar" height="30" width="40" /></a>
-</p>
