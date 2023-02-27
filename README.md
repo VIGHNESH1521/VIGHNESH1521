@@ -10,7 +10,7 @@ A passionate Python, Machine Learning & Deep Learning enthusiast, Django develop
 * ✉️  You can contact me at [vighneshsudhakar@gmail.com](mailto:vighneshsudhakar@gmail.com)
 * 🧠  I'm learning Django, HTML5, CSS3, Bootstrap
 * 🤝  I'm open to collaborating on Machine Learning, Deep Learning
-* 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+* 📝 I regularly write articles on MEDIUM(https://medium.com/)
 
 <a href="https://www.twitter.com/vighnesh2k01" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/vighnesh2k01?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=000000"
